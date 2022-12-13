@@ -1,7 +1,5 @@
 ![image](https://user-images.githubusercontent.com/52659692/207279893-262a6cda-b66e-424a-b6ef-6d9d05a8e12d.png)
 
-<br />
-
 <h2 align="center">🛠 Tech Stack</h2>
 
 <!-- <p align="center">Techs that I've used at least once</p> -->
